@@ -18,7 +18,7 @@ Tiempo: 3 semanas
 
 No. | Lección
 --- | -------
-11  | Depuración en JS
+11  | [Depuración en JS](./lecciones/11-js-debugging/README.md )
 12  | Notación Big O
 13  | Git y Github
 14  | HTML
